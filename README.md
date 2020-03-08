@@ -16,7 +16,9 @@ The variables of interest are:
 
 #### Retrieval of Spotify Data   
 Spotify has made a huge mark in the digital streaming space since going live in 2008. With over songs, 113,000,00 subscribers in over countries. It is no wonder that the popularity of songs on this platform are highly related to ability to chart.
-Spotify URIs were obtained using the spotipy 2.9.0. These unique identifiers were then used to retrieve features about the tracks. These included:  
+Spotify URIs were obtained using the spotipy 2.9.0. These unique identifiers were then used to retrieve features about the tracks.  
+
+These include:  
 acousticness  
 danceability  
 duration_ms  
